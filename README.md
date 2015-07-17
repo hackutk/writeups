@@ -1,2 +1,3 @@
-# writeups
-CTF Writeups
+# CTF Writeups
+
+Place all CTF writeups here.
