@@ -1,4 +1,4 @@
-Challenge Name - CTF Name
+Steve's List - PicoCTF 2014
 ===
 
 ###Problem: 
